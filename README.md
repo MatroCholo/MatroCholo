@@ -11,8 +11,8 @@
 ## Статистика
 
 ![Статистика](https://github-readme-stats.vercel.app/api?username=MatroCholo&count_private=tru&show_icons=true)
-
-[![Мои языки программированя](https://github-readme-stats.vercel.app/api/top-langs/?username=MatroCholo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+![Мои языки программированя](https://github-readme-stats.vercel.app/api/top-langs/?username=MatroCholo)
 
 ## Связь со мной
 <a href="https://t.me/MatroCholo"><img src="https://img.icons8.com/fluent/144/000000/telegram-app.png" alt="telegram" width="44" height="44"/></a>
