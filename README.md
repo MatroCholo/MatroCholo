@@ -6,7 +6,7 @@
 ## Что я использую: 
 <a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30"/></a>
 <a href="https://www.linux.org/"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="30" height="30"/></a>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="30" height="30"/></a>
 <a href="https://www.raspberrypi.org/"><img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="30" height="30"/></a>
 
 ## Статистика:
