@@ -1,4 +1,4 @@
-### Всем привет!
+### Всем привет
 
 #### Меня зовут **MatroCholo**, я кодер.
 #### Моим основным языком программирования является [Python](https://www.python.org/).
@@ -10,8 +10,10 @@
 <a href="https://www.raspberrypi.org/"><img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="30" height="30"/></a>
 
 ## Статистика:
+![Посетители](https://visitor-badge.glitch.me/badge?page_id=MatroCholo)
+
 ![Статистика](https://github-readme-stats.vercel.app/api?username=MatroCholo&count_private=tru&show_icons=true)
-  
+
 ![Мои языки программированя](https://github-readme-stats.vercel.app/api/top-langs/?username=MatroCholo)
 
 
